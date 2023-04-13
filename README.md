@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴅɪʟ ダ ᴍᴜsɪᴄ 」──
+    ──「 MAHI ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg">
+  <img src="https://graph.org/file/2216295471987f377677c.jpg">
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
+  <img src="https://graph.org/file/98f19edad84aa1a8f8d98.jpg">
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ʙʏ ᴅɪʟ」─
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ʙʏ MAHI」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheAnonymous2005/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
