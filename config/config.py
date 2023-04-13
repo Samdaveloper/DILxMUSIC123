@@ -23,7 +23,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Samdaveloper/DILxMUSIC123")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv("GIT_TOKEN", None)
+GIT_TOKEN = getenv("GIT_TOKEN","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")
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/king_x_network")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/maitri_chi_duniya")
