@@ -52,12 +52,12 @@ async def init():
     await userbot.start()
     await DIL.start()
     try:
-        await DIL.stream_decall("https://telegra.ph/file/de3464aa7d6bfafdd2dc3.mp4")
+        await DIL.stream_decall("https://graph.org/file/98f19edad84aa1a8f8d98.jpg")
     except:
         pass
     try:
         await DIL.stream_call(
-            "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
+            "https://graph.org/file/2216295471987f377677c.jpg"
         )
     except NoActiveGroupCall:
         LOGGER("DILX").error(
@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await DIL.decorators()
-    LOGGER("DILX").info("DILxAAROHI")
+    LOGGER("DILX").info("✘𓂆𓂇Đ")
     await idle()
 
 
