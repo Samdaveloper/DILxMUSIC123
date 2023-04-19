@@ -27,7 +27,7 @@ loop = asyncio.get_running_loop()
 
 
 @app.on_message(
-    filters.command(get_command("kanchan_command"))
+    filters.command(get_command("kanchan"))
     & filters.private
     & ~filters.edited
     & ~BANNED_USERS
