@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Samdaveloper/DILxMUS
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN","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")
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/king_x_network")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/maitri_chi_duniya")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Caption_XD")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/official_eagle_team")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
