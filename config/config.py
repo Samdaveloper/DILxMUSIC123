@@ -16,7 +16,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "5864436910").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "5333769332").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Samdaveloper/DILxMUS
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN","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")
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Caption_XD")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/official_eagle_team")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/caption_marathi_status")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Marathi_Chatting_143")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
